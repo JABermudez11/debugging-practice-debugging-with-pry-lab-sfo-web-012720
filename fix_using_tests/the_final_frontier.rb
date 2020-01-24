@@ -12,7 +12,7 @@ def crew
 end
 
 def greet_crew (crew)
-  crew.map do {|crew_member| p "Hello #{crew_member}."}
+  crew.map {|crew_member| p "Hello #{crew_member}."}
 end
 
 def engage
