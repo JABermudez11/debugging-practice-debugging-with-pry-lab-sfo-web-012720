@@ -18,6 +18,7 @@ def selection(num)
      p "HAM HAM HAM IN MY TUMMY"
      #p "YUM YUM MUNCH MUNCH MUNCH"
   end
+  binding.pry
 end
 
 def runner
