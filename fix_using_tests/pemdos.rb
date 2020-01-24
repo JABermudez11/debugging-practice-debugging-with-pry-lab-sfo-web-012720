@@ -1,7 +1,7 @@
 def snake_it_up(string)
   index = 0
   if string[0] == "s"
-    while i < 10
+    while index < 10
       string = 's' + string
       index += 1
     end
