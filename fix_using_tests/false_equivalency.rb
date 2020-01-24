@@ -14,10 +14,8 @@ def selection(num)
   case num
   when num = 1
      p "YUM YUM MUNCH MUNCH MUNCH"
-     #p "HAM HAM HAM IN MY TUMMY"
   when num = 2
      p "HAM HAM HAM IN MY TUMMY"
-     #p "YUM YUM MUNCH MUNCH MUNCH"
   end
 end
 
