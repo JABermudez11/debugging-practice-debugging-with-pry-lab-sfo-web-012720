@@ -11,10 +11,11 @@ def prompt_user
 end
 
 def selection(num)
-  if num = 1
+  case num
+  when num = 1
      p "YUM YUM MUNCH MUNCH MUNCH"
      #p "HAM HAM HAM IN MY TUMMY"
-  else
+  when num = 2
      p "HAM HAM HAM IN MY TUMMY"
      #p "YUM YUM MUNCH MUNCH MUNCH"
   end
