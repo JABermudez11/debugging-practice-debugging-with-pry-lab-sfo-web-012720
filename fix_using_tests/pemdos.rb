@@ -1,8 +1,8 @@
 def snake_it_up(string)
-  s = 's'
+  index = 0
   if string[0] == "s"
-    10.times do
-      s + string
+    while i < 10
+      string = 's' + string
     end
     string
   else
