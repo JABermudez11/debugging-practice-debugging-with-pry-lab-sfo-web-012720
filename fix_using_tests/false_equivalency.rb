@@ -14,7 +14,7 @@ def selection(num)
   if num = 1
      p "YUM YUM MUNCH MUNCH MUNCH"
      #p "HAM HAM HAM IN MY TUMMY"
-  elsif num = 2
+  else
      p "HAM HAM HAM IN MY TUMMY"
      #p "YUM YUM MUNCH MUNCH MUNCH"
   end
